@@ -19,3 +19,7 @@ py examples/demo_moons.py
 ## Для просмотра математики и выполнения кода в .ipynb 
 1_math_and_derivation.ipynb - пояснения и математические формулы (градиенты, веса и т.п) 
 2_vs_sklearn - сравнение точности с Sklearn нашей реализации MLP 
+
+![plot](https://github.com/user-attachments/assets/1716c8bd-fb5b-4b28-b928-4d1f7143b8ed)
+
+
